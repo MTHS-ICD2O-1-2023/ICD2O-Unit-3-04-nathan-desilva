@@ -4,7 +4,7 @@
 // Created on: April 2024
 'use strict'
 /**
- * This function converst fahrenheit to celsius
+ * This function converts fahrenheit to celsius
  */
 function myButtonClicked() {
   // input
